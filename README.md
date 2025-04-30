@@ -1,4 +1,5 @@
-# Aura
+# <img src="screenshots/logo.png" alt="Aura Icon" width="100" /> Aura
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/vairamuththu-sinthujan/Aura)
 ![Open Issues](https://img.shields.io/github/issues/vairamuththu-sinthujan/Aura)
@@ -18,10 +19,11 @@
 6. [Run Instructions](#run-instructions)
 7. [API Endpoints](#api-endpoints)
 8. [Project Structure](#project-structure)
-9. [Contributing](#contributing)
-10. [Contact](#contact)
-11. [Acknowledgments](#acknowledgments)
-12. [License](#license)
+9. [Screen Shots](#screen-shots)
+10. [Contributing](#contributing)
+11. [Contact](#contact)
+12. [Acknowledgments](#acknowledgments)
+13. [License](#license)
 
 
 ## Features
@@ -202,6 +204,11 @@ The backend follows a modular MVC-like architecture:
 - **models/**: Mongoose schema definitions for MongoDB collections
 - **routes/**: Express route definitions that map to controllers
 - **utils/**: Helper functions, utilities, and shared code
+
+## Screen Shots
+
+<img src="screenshots/collection_1.jpg" alt="Aura Icon" width="500" />  <img src="screenshots/collection_2.jpg" alt="Aura Icon" width="500" />
+<img src="screenshots/collection_3.jpg" alt="Aura Icon" width="500" />  <img src="screenshots/collection_4.jpg" alt="Aura Icon" width="500" />
 
 ## Contributing
 
